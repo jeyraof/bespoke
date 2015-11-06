@@ -1,0 +1,15 @@
+{
+  "CORSO": [
+    {
+      "bought_at": "2015-10-26 10:47:06 +0900",
+      "name": "CORSO navy blazer",
+      "size": {
+        "shoulder": "18 inches",
+        "chest": "40 inches",
+        "waist": "35 inches",
+        "arm length": "23.5 inches",
+        "length": "27.25 inches"
+      }
+    }
+  ]
+}
