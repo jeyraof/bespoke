@@ -1,0 +1,48 @@
+{
+  "STRIPES": [
+    {
+      "bought_at": "2014-09-23 00:00:00 +0900",
+      "name": "더블 인디고 다크블루 데님",
+      "size": {
+        "detail": "칼라: 히든버튼와이드 커프스: 육각 앞단: 봉제선 감춤 셔츠핏: 슬림 셔츠주머니: 있음"
+      }
+    },
+    {
+      "bought_at": "2014-09-23 00:00:00 +0900",
+      "name": "네이비 깅엄체크",
+      "size": {
+        "detail": "칼라: 히든버튼와이드 커프스: 육각 앞단: 봉제선 감춤 셔츠핏: 타이트 셔츠주머니: 없음"
+      }
+    },
+    {
+      "bought_at": "2015-03-03 00:00:00 +0900",
+      "name": "화이트 옥스포드",
+      "size": {
+        "shoulder": "17.5 inches",
+        "chest": "37 inches",
+        "waist (belly)": "31.5 inches",
+        "arm length": "22.75 inches",
+        "length": "28.5 inches",
+        "upper arm": "12.75 inches",
+        "wrist": "6.5 inches",
+        "neck": "15.25 inches",
+        "detail": "칼라: 차이나 커프스: 육각 앞단: 기본 셔츠핏: 슬림 셔츠주머니: 없음"
+      }
+    },
+    {
+      "bought_at": "2015-03-03 00:00:00 +0900",
+      "name": "네이비 볼드 스트라이프 옥스포드",
+      "size": {
+        "shoulder": "17.5 inches",
+        "chest": "37 inches",
+        "waist (belly)": "31.5 inches",
+        "arm length": "22.75 inches",
+        "length": "28.5 inches",
+        "upper arm": "12.75 inches",
+        "wrist": "6.5 inches",
+        "neck": "15.25 inches",
+        "detail": "칼라: 히든버튼와이드 커프스: 사각 앞단: 기본 셔츠핏: 슬림 셔츠주머니: 없음"
+      }
+    },
+  ]
+}
