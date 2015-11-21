@@ -10,6 +10,20 @@
         "arm length": "23.5 inches",
         "length": "27.25 inches"
       }
+    },
+    {
+      "bought_at": "2015-11-10 11:31:46 +0900",
+      "name": "CORSO houndtooth check blazer",
+      "size": {
+        "shoulder": "18 inches",
+        "chest": "40 inches",
+        "waist": "35 inches",
+        "arm length": "22.5 inches",
+        "length": "27.25 inches"
+      },
+      "extra": {
+        "fail": "사이즈 미스가 있었다. arm length 는 23.5 여야 한다. 22.5는 짧음. 수정 넣어야함."
+      }
     }
   ]
 }
