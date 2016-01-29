@@ -44,5 +44,49 @@
         "detail": "칼라: 히든버튼와이드 커프스: 사각 앞단: 기본 셔츠핏: 슬림 셔츠주머니: 없음"
       }
     }
+  ],
+  "Savilerow": [
+    {
+      "bought_at": "2015-12-15 00:00:00 +0900",
+      "name": "하운드투스 버튼다운 셔츠",
+      "size": {
+        "shoulder": "18.5 inches",
+        "chest": "40.25 inches",
+        "waist (belly)": "34.25 inches",
+        "arm length": "31.5 inches",
+        "length": "28.5 inches",
+        "wrist": "9.75 inches",
+        "neck": "15.75 inches",
+        "detail": "카라: 버튼다운"
+      }
+    },
+    {
+      "bought_at": "2015-12-25 00:00:00 +0900",
+      "name": "중청 데님 버튼다운 셔츠",
+      "size": {
+        "shoulder": "18.5 inches",
+        "chest": "40.25 inches",
+        "waist (belly)": "34.25 inches",
+        "arm length": "31.5 inches",
+        "length": "28.5 inches",
+        "wrist": "9.75 inches",
+        "neck": "15.75 inches",
+        "detail": "카라: 버튼다운, 워싱: 중청"
+      }
+    },
+    {
+      "bought_at": "2015-12-25 00:00:00 +0900",
+      "name": "테스타 화이트 프렌치 커프스 셔츠",
+      "size": {
+        "shoulder": "18.5 inches",
+        "chest": "40.25 inches",
+        "waist (belly)": "34.25 inches",
+        "arm length": "31.5 inches",
+        "length": "28.5 inches",
+        "wrist": "9.75 inches",
+        "neck": "15.75 inches",
+        "detail": "카라: 일반 버튼다운, 커프스: 프렌치"
+      }
+    }
   ]
 }
